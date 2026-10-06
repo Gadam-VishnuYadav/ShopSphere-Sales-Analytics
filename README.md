@@ -99,27 +99,7 @@ DAX Measures
 Interactive Dashboard
    ↓
 Business Insights
-```
 
-## Repository Structure
-
-```text
-ShopSphere-Sales-Analytics/
-│
-├── README.md
-│
-├── Dashboard/
-│   ├── PowerBI/
-│   │   └── ShopSphere_Sales_Analytics.pbix
-│   │
-│   └── Preview_Images/
-│       ├── Sales_Overview.png
-│       ├── Product_Performance.png
-│       └── Customer_SalesRep_Insights.png
-│
-└── SQL/
-    └── ShopSphere_Queries.sql
-```
 
 ## Key Business Questions
 
